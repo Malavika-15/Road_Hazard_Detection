@@ -1,0 +1,22 @@
+.notificationContainer {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+.notificationList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.notificationItem {
+    padding: 5px;
+    margin: 5px 0;
+    border: 1px solid #007bff;
+    border-radius: 3px;
+    background-color: #e7f3ff;
+    color: #0056b3;
+}

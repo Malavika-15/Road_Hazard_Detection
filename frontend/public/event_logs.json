@@ -1,0 +1,26 @@
+[
+    {
+        "receiver_vehicle": "Vehicle_4",
+        "sender_vehicle": "Vehicle_3",
+        "message_type": "accident",
+        "timestamp": 37.6
+    },
+    {
+        "receiver_vehicle": "Vehicle_3",
+        "sender_vehicle": "Vehicle_4",
+        "message_type": "sudden_stop",
+        "timestamp": 40.4
+    },
+    {
+        "receiver_vehicle": "Vehicle_1",
+        "sender_vehicle": "Vehicle_5",
+        "message_type": "sudden_stop",
+        "timestamp": 50.0
+    },
+    {
+        "receiver_vehicle": "Vehicle_2",
+        "sender_vehicle": "Vehicle_5",
+        "message_type": "sudden_stop",
+        "timestamp": 50.0
+    }
+]
